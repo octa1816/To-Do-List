@@ -30,19 +30,9 @@ CSS3 (Flexbox o Grid, según tu implementación)
 
 JavaScript Vanilla
 
-📂 Estructura del proyecto
-pgsql
-Copiar
-Editar
-to-do-list/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+
 📦 Cómo ejecutar el proyecto localmente
 Cloná el repositorio:
-
 bash
 Copiar
 Editar
